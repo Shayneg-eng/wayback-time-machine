@@ -1,0 +1,12 @@
+{
+  "crawl_info": {
+    "news_source": "The_Independent",
+    "requested_date": "2000-02-05",
+    "actual_date": null,
+    "crawl_timestamp": "2025-07-19T23:27:26.464260",
+    "total_pages_crawled": 0,
+    "homepage_url": null
+  },
+  "homepage": null,
+  "crawled_pages": {}
+}

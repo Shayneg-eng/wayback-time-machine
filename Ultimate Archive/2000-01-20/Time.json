@@ -1,0 +1,12 @@
+{
+  "crawl_info": {
+    "news_source": "Time",
+    "requested_date": "2000-01-20",
+    "actual_date": "2001-03-03",
+    "crawl_timestamp": "2025-07-19T23:16:41.888873",
+    "total_pages_crawled": 0,
+    "homepage_url": null
+  },
+  "homepage": null,
+  "crawled_pages": {}
+}

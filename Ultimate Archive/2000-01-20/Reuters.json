@@ -1,0 +1,12 @@
+{
+  "crawl_info": {
+    "news_source": "Reuters",
+    "requested_date": "2000-01-20",
+    "actual_date": "2000-02-29",
+    "crawl_timestamp": "2025-07-19T23:16:15.105891",
+    "total_pages_crawled": 0,
+    "homepage_url": null
+  },
+  "homepage": null,
+  "crawled_pages": {}
+}

@@ -1,0 +1,12 @@
+{
+  "crawl_info": {
+    "news_source": "New_York_Times",
+    "requested_date": "2000-02-01",
+    "actual_date": "2000-11-09",
+    "crawl_timestamp": "2025-07-19T23:24:03.989899",
+    "total_pages_crawled": 0,
+    "homepage_url": null
+  },
+  "homepage": null,
+  "crawled_pages": {}
+}

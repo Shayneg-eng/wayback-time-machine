@@ -1,0 +1,12 @@
+{
+  "crawl_info": {
+    "news_source": "Chicago_Tribune",
+    "requested_date": "2000-01-23",
+    "actual_date": "2000-08-15",
+    "crawl_timestamp": "2025-07-19T23:18:17.292213",
+    "total_pages_crawled": 0,
+    "homepage_url": null
+  },
+  "homepage": null,
+  "crawled_pages": {}
+}

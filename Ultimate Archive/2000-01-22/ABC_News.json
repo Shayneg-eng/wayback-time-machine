@@ -1,0 +1,12 @@
+{
+  "crawl_info": {
+    "news_source": "ABC_News",
+    "requested_date": "2000-01-22",
+    "actual_date": "2000-08-15",
+    "crawl_timestamp": "2025-07-19T23:17:40.213949",
+    "total_pages_crawled": 0,
+    "homepage_url": null
+  },
+  "homepage": null,
+  "crawled_pages": {}
+}

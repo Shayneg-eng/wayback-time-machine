@@ -1,0 +1,12 @@
+{
+  "crawl_info": {
+    "news_source": "Los_Angeles_Times",
+    "requested_date": "2000-01-20",
+    "actual_date": null,
+    "crawl_timestamp": "2025-07-19T23:16:23.881685",
+    "total_pages_crawled": 0,
+    "homepage_url": null
+  },
+  "homepage": null,
+  "crawled_pages": {}
+}
